@@ -31,9 +31,9 @@ top:95%;
 left:50%;
 transform: translate(-50%, -50%);
 border: 5px solid black;
-background-color: cyan
-  cursor: pointer
-    color : black
+background-color: cyan;
+  cursor: pointer;
+    color : black;
 
 }
 
