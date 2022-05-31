@@ -17,10 +17,11 @@ border: 5px solid white;
 #demo
 {
 position: absolute;
-top:113%;
+top:116%;
 left:50%;
 transform: translate(-50%, -50%);
 border: 5px solid white;
+    color: black
 
 }
 #credit
@@ -31,6 +32,8 @@ left:50%;
 transform: translate(-50%, -50%);
 border: 5px solid black;
 background-color: cyan
+  cursor: pointer
+    color : black
 
 }
 
