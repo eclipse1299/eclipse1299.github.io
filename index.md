@@ -17,7 +17,7 @@ border: 5px solid white;
 #demo
 {
 position: absolute;
-top:108%;
+top:111%;
 left:50%;
 transform: translate(-50%, -50%);
 border: 5px solid white;
@@ -30,6 +30,7 @@ top:95%;
 left:50%;
 transform: translate(-50%, -50%);
 border: 5px solid black;
+background-color: #4CAF50
 
 }
 
